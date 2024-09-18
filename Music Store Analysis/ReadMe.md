@@ -8,4 +8,4 @@ For each question, I have provided a technical explanation of how I arrived at t
 
 This analysis was conducted using PostgreSQL, leveraging various SQL techniques such as joins, aggregate functions, window functions, and CTEs.
 
-These questions address key business insights that a real-world music company would find valuable.
+These questions address key business insights that a real-world music company would find valuable. Also, you can find the data visualizations that answers some of the business questions, in the dashboard created by Microsoft Power BI.
